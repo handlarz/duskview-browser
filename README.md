@@ -7,3 +7,5 @@ to make it run place it in a directory of choice and run:
 pip install PyQt6, PyQt6-WebEngine
 
 python index.py
+
+### sidenote: I didn't implement tabs as of now
